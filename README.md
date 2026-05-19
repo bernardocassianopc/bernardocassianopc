@@ -55,6 +55,18 @@ Currently, I am in the second semester of Data Science and Artificial Intelligen
 
 ---
 
-## 🐍 Snake Animation
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bernardocassianopc/bernardocassianopc/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/bernardocassianopc/bernardocassianopc/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/bernardocassianopc/bernardocassianopc/output/github-contribution-grid-snake.svg"
+  >
+</picture>
 
-![Snake animation](https://github.com/bernardocassianopc/bernardocassianopc/blob/output/github-contribution-grid-snake.svg)
