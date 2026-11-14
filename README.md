@@ -13,6 +13,7 @@ Faço Ciência de Dados e IA na Mauá, e é lá que a maioria dos meus projetos 
 Junto com a minha equipe, ganhei o 1º lugar no Hackathon em Saúde IMT × São Camilo com o Pendi, uma plataforma para crianças em tratamento oncológico. Foi uma das experiências mais legais que já tive.
 Sou um dos sócios da SPfish, uma distribuidora de frutos do mar. Cuidar de um negócio de verdade me ensinou a olhar para os números com mais atenção.
 Fora da faculdade, faço cursos de Python e SQL para praticar o que aprendo na aula.
+Tenho uma base em estatística e estou buscando aperfeiçoar minhas habilidades em inteligência artificial.
 O que eu uso
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css&perline=7" alt="Linguagens e web" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,neo4j,git,github&perline=5" alt="Bancos de dados e ferramentas" /> </p>
 
