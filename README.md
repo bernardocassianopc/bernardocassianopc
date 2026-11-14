@@ -1,74 +1,42 @@
-# Olá, eu sou Bernardo Cassiano Putini da Costa 👋
-# Hello, I'm Bernardo Cassiano Putini da Costa 👋
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1b1f3b&height=200&section=header&text=Bernardo%20Putini&fontSize=44&fontColor=ffffff&desc=Ci%C3%AAncia%20de%20Dados%20e%20Intelig%C3%AAncia%20Artificial&descSize=18&descAlignY=68" alt="Bernardo Putini" /> </p>
+Oi, eu sou o Bernardo 👋
 
-Atualmente estou no segundo semestre de Ciência de Dados e Inteligência Artificial.  
-Currently, I am in the second semester of Data Science and Artificial Intelligence.
+Estudo Ciência de Dados e Inteligência Artificial no Instituto Mauá de Tecnologia, estou no 3º semestre e é aqui no GitHub que eu guardo o que vou aprendendo e construindo pelo caminho.
 
----
+Gosto de entender como as coisas funcionam por baixo e de ver um código meu resolvendo um problema de verdade. Por enquanto estou mais perto de Python e de bancos de dados, tanto SQL quanto NoSQL, mas gosto de mexer com tudo um pouco, de site a banco de dados.
 
-## 🚀 Sobre mim | About Me
+Email
 
-- 📚 Estudando programação e tecnologia  
-  📚 Studying programming and technology
+<!-- Quando tiver o link do LinkedIn, tire os marcadores de comentário e troque SEU-USUARIO: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO) -->
+Um pouco mais sobre mim
+Faço Ciência de Dados e IA na Mauá, e é lá que a maioria dos meus projetos nasce.
+Junto com a minha equipe, ganhei o 1º lugar no Hackathon em Saúde IMT × São Camilo com o Pendi, uma plataforma para crianças em tratamento oncológico. Foi uma das experiências mais legais que já tive.
+Sou um dos sócios da SPfish, uma distribuidora de frutos do mar. Cuidar de um negócio de verdade me ensinou a olhar para os números com mais atenção.
+Fora da faculdade, faço cursos de Python e SQL para praticar o que aprendo na aula.
+O que eu uso
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css&perline=7" alt="Linguagens e web" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,neo4j,git,github&perline=5" alt="Bancos de dados e ferramentas" /> </p>
 
-- 💻 Desenvolvendo projetos para aprimorar minhas habilidades  
-  💻 Developing projects to improve my skills
+Linguagens: Python, Java, JavaScript, TypeScript, Dart e SQL
 
-- 🎯 Interessado em Ciência de Dados, IA e programação  
-  🎯 Interested in Data Science, AI, and programming
+Bancos de dados: tenho conhecimento em SQL e NoSQL, com MySQL, MongoDB e Neo4j
 
----
+Web: HTML, CSS e JavaScript
 
-## 🌐 Conecte-se comigo | Connect with Me
+Ferramentas: Git e GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardocassianopc)
+Projetos
+Pendi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bernardo-cassiano-54558037b)
+Foi o projeto do hackathon da Mauá com o São Camilo: uma plataforma para crianças em tratamento oncológico, que ajuda a manter atividade física e cuidados com a saúde, e que também tem uma área para o médico acompanhar tudo. Usei TypeScript no desenvolvimento. Fizemos em equipe e ficamos em 1º lugar.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/be_costa07/)
+Quiz de Química (ETEC)
 
----
+Um quiz de Química que fiz em Java com banco de dados SQL, como projeto acadêmico. Além das perguntas, ele calcula a estatística de acertos e erros.
 
-## 🛠️ Habilidades | Skills
+Site educacional do Poliedro
 
-### 🚀 Front-End
+Projeto acadêmico da Mauá: uma plataforma web educacional feita com HTML, CSS, JavaScript e MongoDB.
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Os repositórios estão na aba Repositories. Vou subindo os projetos e os exercícios dos cursos aos poucos.
 
----
-
-### ⚙️ Back-End
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
----
-
-### 🛠️ Outras Tecnologias | Other Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bernardocassianopc/bernardocassianopc/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/bernardocassianopc/bernardocassianopc/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/bernardocassianopc/bernardocassianopc/output/github-contribution-grid-snake.svg"
-  >
-</picture>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1f3b,100:0A66C2&height=120&section=footer" alt="" /> </p>
